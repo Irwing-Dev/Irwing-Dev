@@ -9,13 +9,13 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Irwing-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irwing-Dev&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
- 
+
  ##
  
  <div style="display: flex; justify-content: space-between;">
- <h3>Repositórios:</h3> <br>
- <a href="https://github.com/Irwing-Dev/gerador-de-senhas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Irwing-Dev&repo=gerador-de-senhas&theme=tokyonight" />
+ <h3>Repositórios Úteis:</h3> <br>
+ <a href="https://github.com/Irwing-Dev/gerador-de-qr-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Irwing-Dev&repo=gerador-de-qr-code&theme=tokyonight" />
 </a>
 <a href="https://github.com/Irwing-Dev/juros-simples">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Irwing-Dev&repo=juros-simples&theme=tokyonight" />
