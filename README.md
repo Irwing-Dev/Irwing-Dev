@@ -6,10 +6,8 @@
  </ul>
 
 <div style="display: flex; justify-content: sapce-between;">
-<a href="github.com/Irwing-Dev">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Irwing-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irwing-Dev&layout=compact&langs_count=16&theme=tokyonight" />
-</a>
 </div>
  
  ##
