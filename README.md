@@ -1,7 +1,7 @@
 ## Olá, me chamo Irwing!
 <ul>
 <li>
- Atualmente sou um estudante focado em front-end <img height="15" width="15" src="https://user-images.githubusercontent.com/126827415/226213988-6b5b7f22-7876-404e-af62-a1de1093351e.png" />
+ Atualmente sou um estudante tentando me tornar em um profissional full stack <img height="15" width="15" src="https://user-images.githubusercontent.com/126827415/226213988-6b5b7f22-7876-404e-af62-a1de1093351e.png" />
  </li>
  </ul>
 
@@ -26,6 +26,12 @@
  
 <div style="display: flex;">
     <h3>Principais Linguagens: </h3> <br>
-    <img align="center" alt="Irwing-HTML" height="30" width="200" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Irwing-CSS" height="30" width="200" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Irwing-Js" height="30" width="200" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></div>
+    <img align="center" alt="Irwing-HTML" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Irwing-CSS" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Irwing-Js" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Irwing-Ts" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Irwing-NodeJs" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+     <img align="center" alt="Irwing-ExpressJs" height="60" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+      <img align="center" alt="Irwing-MongoDB" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+      <img align="center" alt="Irwing-Git" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
