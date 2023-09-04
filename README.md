@@ -11,18 +11,6 @@
 
  ##
  
- <div style="display: flex; justify-content: space-between;">
- <h3>Repositórios Úteis:</h3> <br>
- <a href="https://github.com/Irwing-Dev/gerador-de-qr-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Irwing-Dev&repo=gerador-de-qr-code&theme=tokyonight" />
-</a>
-<a href="https://github.com/Irwing-Dev/juros-simples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Irwing-Dev&repo=juros-simples&theme=tokyonight" />
-</a>
-</div>
-
- #
- 
 <div style="display: flex;">
     <h3>Principais Tecnologias: </h3> <br>
     <img align="center" alt="Irwing-HTML" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
