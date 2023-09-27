@@ -1,4 +1,4 @@
-<h1>Olá, me chamo Irwing!</h1>
+<h1>Hi, &#128075; I'm Irwing!</h1>
 <h3>Full Stack <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" style="width: 20px; height: 20px; position: relative; top: 3px;" /> Web Developer</h3>
 
  <img src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=740&t=st=1695759397~exp=1695759997~hmac=014463e57d6aef7ef338244f86e3e1b532f81c499d2eaedb8042cd50aca53b48" style="width: 100%; height: 400px;" />
