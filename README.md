@@ -6,9 +6,8 @@
 <hr/>
 
 # 💫 About Me
-🔭 I’m currently work on frontendmentor.io <br/> <br/>
-🌱 I’m currently learning Astrojs and Prompt Engineering <br/> <br/>
-💬 Ask me about TypeScript, NodeJs, ReactJs and Mongodb
+🌱 I’m currently learning Python <br/> <br/>
+💬 Ask me about TypeScript, NodeJs and ReactJs
 
 # 💻 Tech Stack:
 
