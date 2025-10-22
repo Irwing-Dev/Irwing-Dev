@@ -4,6 +4,8 @@
 <hr/>
 
 # 💫 About Me
+I'm a passionate FullStack Developer, I'd like to use NextJS, TailwindCSS and Node/Express.js in my projects, but I currently use others languages and stacks for build a strong knowlodge.
+<br/>
 I was one of the developers behind the simbioporto project, the winner of challenge 3 of inova norte 2025
 
 # 💻 Tech Stack:
