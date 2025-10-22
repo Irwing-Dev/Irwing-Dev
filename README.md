@@ -4,8 +4,7 @@
 <hr/>
 
 # 💫 About Me
-🌱 I’m currently learning C <br/> <br/>
-💬 Ask me about JavaScript/TypeScript, NodeJs and ReactJs
+I was one of the developers behind the simbioporto project, the winner of challenge 3 of inova norte 2025
 
 # 💻 Tech Stack:
 
