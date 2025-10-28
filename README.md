@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Irwing!</h1>
+![Header](./github-header-banner.png)
+<br/>
+<!--
 <p align="center">
   <img src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=740&t=st=1695759397~exp=1695759997~hmac=014463e57d6aef7ef338244f86e3e1b532f81c499d2eaedb8042cd50aca53b48" width="1000" height="400" alt="coding banner"/>
-</p>
+</p> -->
 
 ---
 
