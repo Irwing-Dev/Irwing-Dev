@@ -62,7 +62,7 @@ My focus includes:
 ---
 
 ## 📊 GitHub Stats  
-![GitHubActivityGraph](https://github-readme-activity-graph.vercel.app/graph?username=Irwing-Dev&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Irwing-Dev&theme=react-dark)
 <br/> <br/>
-![StreakStats](https://github-readme-streak-stats.herokuapp.com/?user=Irwing-Dev&theme=omni&hide_border=false)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irwing-Dev&theme=omni&hide_border=false&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Irwing-Dev&theme=omni&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irwing-Dev&layout=donut&theme=omni)
