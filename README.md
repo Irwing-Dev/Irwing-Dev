@@ -16,6 +16,16 @@ I work mainly with **Next.js**, **TailwindCSS**, and **Node/Express.js**, but I 
 
 ---
 
+### 🔗 Links
+<div align="center">
+<a href="https://www.linkedin.com/in/irwing-m-6a8b92396/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.behance.net/irwingm1">
+  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+</div>
+
 ## 🧠 Tech Stack  
 
 ### 💬 Languages  
